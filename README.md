@@ -7,3 +7,4 @@ baixe os três arquivos na mesma pasta e execute app.py
 
 # dependencias
 flet framework
+python 3
